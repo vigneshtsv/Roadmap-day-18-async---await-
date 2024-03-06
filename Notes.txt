@@ -1,0 +1,24 @@
+Async-await
+error-handling
+
+Async-await
+=>It is applicable to fuction
+=>A normal function can be converted into async function by using async keyword at the start
+=>It returns a promise
+=>await keyword is used to handle the promise.
+=>await is used inside the function.
+=>await is used as replacement for .then
+=>await help us to wait until the promise get resloved.
+
+try-catch:-
+ => it is used for error handling.
+ //syntax:-
+  try{
+    //block of code
+  }
+  catch{
+    //block of code
+  }
+
+  =>  try block is used to execute the logic
+  => catch block is used to handle the error.
